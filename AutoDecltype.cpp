@@ -20,6 +20,8 @@ void auto_demo() {
 	}
 }
 
+
+
 // add trailing type -> int later
 auto get_meaning_of_life(int bias) -> int
 { return 42 + bias; }
